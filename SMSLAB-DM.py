@@ -134,12 +134,6 @@ results_df[['Model', 'Balancing', 'TF-IDF', 'min_df', 'ngram', 'max_features',
 
 
 
-# Display confusion matrix helper
-
-
-# Plot confusion matrices
-
-
 
 # Print confusion matrices (text only)
 def print_conf_matrix(cm, title):
